@@ -1,9 +1,1 @@
-Hello
-World
-Java
-Number 
-One
-sdfghsdghsd
-s
-dfgsd
-sdfgs
+Описание проекта
